@@ -8,7 +8,7 @@
   "keyword-2": "Playwaze",
   "data-url": "https://playwaze.com/Webservices/Playwazeservice.svc/Groupplay/GetOpenActiveData",
   "created": "2017-04-20",
-  "documentation-url": "https://github.com/playwaze/openactive",
+  "documentation-url": "https://github.com/playwaze/opendata",
   "rpde-version": "0.2.3",
   "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
