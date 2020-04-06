@@ -1,21 +1,22 @@
 {
-  "dataset-site-url": "http://data.playwaze.com/",
+  "dataset-site-url": "https://playwaze.com/OpenData/OpenActive",
   "title": "Playwaze Courses & Sessions",
   "description": "Courses and sessions from the Playwaze app",
   "publisher-name": "Playwaze Ltd",
   "publisher-url": "https://playwaze.com",
   "keyword-1": "Sports",
   "keyword-2": "Playwaze",
-  "data-url": "https://playwaze.com/Webservices/Playwazeservice.svc/Groupplay/GetOpenActiveData",
+  "data-url": "https://playwaze.com/OpenData/Events",
   "created": "2017-04-20",
   "documentation-url": "https://github.com/playwaze/opendata",
   "rpde-version": "0.2.3",
   "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution-text": "Playwaze",
-  "attribution-url": "http://data.playwaze.com",
+  "attribution-url": "https://playwaze.com/OpenData/OpenActive",
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us15.list-manage.com\",\"uuid\":\"a0f25cfc7e4b0644771e97f49\",\"lid\":\"366cea9297\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
-  "publish": true
+  "publish": true,
+  "redirect": true
 }
